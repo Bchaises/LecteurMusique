@@ -35,6 +35,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java_Pokemon" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ben-PC2\Documents\LecteurMusique" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Bchaises.Main" />
@@ -66,26 +71,34 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="765" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1607424740932">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="234" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1607424740932" />
+    <state x="689" y="315" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1607422336969">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="689" y="315" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1607422336969" />
     <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1607415212737">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1607415212737" />
-    <state width="916" height="202" key="GridCell.Tab.0.bottom" timestamp="1607420405549">
+    <state width="1877" height="200" key="GridCell.Tab.0.bottom" timestamp="1607424999488">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="916" height="202" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1607420405549" />
-    <state width="916" height="202" key="GridCell.Tab.0.center" timestamp="1607420405549">
+    <state width="1877" height="200" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1607424999488" />
+    <state width="1877" height="200" key="GridCell.Tab.0.center" timestamp="1607424999488">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="916" height="202" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1607420405549" />
-    <state width="916" height="202" key="GridCell.Tab.0.left" timestamp="1607420405549">
+    <state width="1877" height="200" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1607424999488" />
+    <state width="1877" height="200" key="GridCell.Tab.0.left" timestamp="1607424999488">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="916" height="202" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1607420405549" />
-    <state width="916" height="202" key="GridCell.Tab.0.right" timestamp="1607420405549">
+    <state width="1877" height="200" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1607424999488" />
+    <state width="1877" height="200" key="GridCell.Tab.0.right" timestamp="1607424999488">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="916" height="202" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1607420405549" />
+    <state width="1877" height="200" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1607424999488" />
     <state x="201" y="270" width="540" height="524" key="StructurePopup" timestamp="1607420528972">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -94,5 +107,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1050@0.0.1920.1050" timestamp="1607420549292" />
+    <state x="730" y="406" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog" timestamp="1607422369618">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="730" y="406" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1607422369618" />
   </component>
 </project>
