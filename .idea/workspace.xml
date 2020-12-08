@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b4d0425-f461-481d-8000-9b8b6c08acb7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bchaises/Chanson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bchaises/MainWindow.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bchaises/MainWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bchaises/Playlist.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bchaises/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bchaises/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bchaises/MainWindow.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bchaises/MainWindow.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bchaises/MainWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bchaises/MainWindow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +33,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java_Pokemon" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -47,6 +46,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -60,5 +64,35 @@
       <updated>1607413569405</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1607415212737">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1607415212737" />
+    <state width="916" height="202" key="GridCell.Tab.0.bottom" timestamp="1607420405549">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="916" height="202" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1607420405549" />
+    <state width="916" height="202" key="GridCell.Tab.0.center" timestamp="1607420405549">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="916" height="202" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1607420405549" />
+    <state width="916" height="202" key="GridCell.Tab.0.left" timestamp="1607420405549">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="916" height="202" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1607420405549" />
+    <state width="916" height="202" key="GridCell.Tab.0.right" timestamp="1607420405549">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="916" height="202" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1607420405549" />
+    <state x="201" y="270" width="540" height="524" key="StructurePopup" timestamp="1607420528972">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="201" y="270" width="540" height="524" key="StructurePopup/0.0.1920.1050@0.0.1920.1050" timestamp="1607420528972" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1607420549292">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1050@0.0.1920.1050" timestamp="1607420549292" />
   </component>
 </project>
